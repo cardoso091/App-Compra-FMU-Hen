@@ -11,6 +11,7 @@ public class Produto {
         this.produtoName = produtoName;
         this.produtoDescription = produtoDescription;
         this.price = price;
+
     }
 
     public int getImgProduto() {
